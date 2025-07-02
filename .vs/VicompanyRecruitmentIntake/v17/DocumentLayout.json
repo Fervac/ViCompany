@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE28210-459B-4AF6-99BA-A6DCED93CEF0}|Vri.Tests\\Vri.Tests.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.tests\\portfoliotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE28210-459B-4AF6-99BA-A6DCED93CEF0}|Vri.Tests\\Vri.Tests.csproj|solutionrelative:vri.tests\\portfoliotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\repositories\\faketransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\repositories\\faketransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\services\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\services\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\repositories\\dummyquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\repositories\\dummyquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\interfaces\\iquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\interfaces\\iquotesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.domain\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CECC611-643D-412C-900E-2126B6D052BB}|Vri.Domain\\Vri.Domain.csproj|solutionrelative:vri.domain\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\viewmodels\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\viewmodels\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.frontend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D3F35-3AA7-4A25-A318-1DF1FF682E8E}|Vri.Frontend\\Vri.Frontend.csproj|solutionrelative:vri.frontend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE28210-459B-4AF6-99BA-A6DCED93CEF0}|Vri.Tests\\Vri.Tests.csproj|c:\\users\\ferva\\documents\\projects\\vicompany\\vicompany\\vri.tests\\vri.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAE28210-459B-4AF6-99BA-A6DCED93CEF0}|Vri.Tests\\Vri.Tests.csproj|solutionrelative:vri.tests\\vri.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Portfolio.cs",
+              "RelativeToolTip": "Vri.Domain\\Models\\Portfolio.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwFQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:16:08.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Transaction.cs",
+              "RelativeToolTip": "Vri.Domain\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:11:59.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Position.cs",
+              "RelativeToolTip": "Vri.Domain\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:11:31.944Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioTests.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Tests\\PortfolioTests.cs",
+              "RelativeDocumentMoniker": "Vri.Tests\\PortfolioTests.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Tests\\PortfolioTests.cs",
+              "RelativeToolTip": "Vri.Tests\\PortfolioTests.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAMMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:05:12.5Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Repositories\\FakeTransactionRepository.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Repositories\\FakeTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Repositories\\FakeTransactionRepository.cs",
+              "RelativeToolTip": "Vri.Domain\\Repositories\\FakeTransactionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:27:44.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DummyQuotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Repositories\\DummyQuotesRepository.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Repositories\\DummyQuotesRepository.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Repositories\\DummyQuotesRepository.cs",
+              "RelativeToolTip": "Vri.Domain\\Repositories\\DummyQuotesRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:28:28.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vri.Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vri.Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:09:10.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortfolioService.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Services\\PortfolioService.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Services\\PortfolioService.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Services\\PortfolioService.cs",
+              "RelativeToolTip": "Vri.Domain\\Services\\PortfolioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:10:52.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Vri.Frontend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\appsettings.Development.json",
+              "RelativeToolTip": "Vri.Frontend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:27:13.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQuotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Interfaces\\IQuotesRepository.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Interfaces\\IQuotesRepository.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Interfaces\\IQuotesRepository.cs",
+              "RelativeToolTip": "Vri.Domain\\Interfaces\\IQuotesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:12:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Vri.Frontend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Vri.Frontend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:09:54.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "Vri.Frontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\appsettings.json",
+              "RelativeToolTip": "Vri.Frontend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:07:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Models\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\TransactionType.cs",
+              "RelativeToolTip": "Vri.Domain\\Models\\TransactionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:12:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "Vri.Domain\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Domain\\Models\\Quote.cs",
+              "RelativeToolTip": "Vri.Domain\\Models\\Quote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:11:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PortfolioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\ViewModels\\PortfolioViewModel.cs",
+              "RelativeDocumentMoniker": "Vri.Frontend\\ViewModels\\PortfolioViewModel.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\ViewModels\\PortfolioViewModel.cs",
+              "RelativeToolTip": "Vri.Frontend\\ViewModels\\PortfolioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:08:45.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vri.Frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vri.Frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T12:07:47.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Vri.Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Program.cs",
+              "RelativeToolTip": "Vri.Frontend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:07:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vri.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Tests\\Vri.Tests.csproj",
+              "RelativeDocumentMoniker": "Vri.Tests\\Vri.Tests.csproj",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Tests\\Vri.Tests.csproj",
+              "RelativeToolTip": "Vri.Tests\\Vri.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T12:06:35.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Startup.cs",
+              "RelativeDocumentMoniker": "Vri.Frontend\\Startup.cs",
+              "ToolTip": "C:\\Users\\ferva\\Documents\\Projects\\ViCompany\\ViCompany\\Vri.Frontend\\Startup.cs",
+              "RelativeToolTip": "Vri.Frontend\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:06:33.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
